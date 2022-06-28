@@ -1,40 +1,50 @@
-## Welcome to GitHub Pages
+# Home
 
-You can use the [editor on GitHub](https://github.com/rmettig/rmettig.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rmettig/rmettig.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Welcome to my personal homepage!
 
 
-[About](https://github.com/rmettig/rmettig.github.io/about/contact.html)
+## About Me
+
+I am a cybersecurity researcher currently affiliated with the [LSU Applied Cybersecurity Lab](https://www.lsu.edu/cybersecurity/applied-cybersecurity-lab/index.php)(ACL), and my main areas of research focus are memory forensics and malware analysis. I received my Bachelor of Science and Master of Science degrees in computer science from Louisiana State University, and I have worked as both a cybersecurity analyst in threat intelligence and as a product security engineer throughout my degree. 
+
+I am also a lifelong musician. In my free time, I love playing guitar, going to concerts, and playing videogames. 
+
+
+## Research
+
+I currently work with Dr. Golden G. Richard III at ACL, where currently a lot of the research is focused on memory forensics. 
+
+My research interests lie within operating system internals, reverse engineering, and binary analysis. Thus far, most of it has focused on malware analysis and on doing memory forensics with the [Volatility Framework](https://github.com/volatilityfoundation). Right now, my main focus is contributing to Volatility's support of memory analysis on Apple Silicon. 
+
+For my master's thesis, I explored new forensic artifacts that are exclusive to Apple's M1 processors, some of which can only be recovered through memory analysis. This publication is embargoed until **Friday, April 07, 2023**.
+
+During my undergraduate degree, I managed a repository of over 30 million malware samples and built automation mechanisms to help process them into a database that could later be used for research. 
+
+
+## Publications
+Masters Thesis
+- [Santos Mettig Rocha, Raphaela. "Improving Memory Forensics Capabilities on Apple M1 Computers." (2022).](https://digitalcommons.lsu.edu/gradschool_theses/5529/)
+
+
+## Presentations and Talks
+- [LSU Discover Day 2019 - Automated Unpacking of Malware with Memory Forensics](https://github.com/rmettig/LSU-Discover-Day) (Slides)
+- [LSU Discover Day 2020 - Malware DB: Pre-processing Malicious Samples for Preliminary Analysis](https://github.com/rmettig/LSU-Discover-Day) (Slides)
+
+
+## Contact 
+
+✉️ Email: rsanto2 [at] lsu [dot] edu
+
+🐦 [Twitter](https://twitter.com/rmettig_)
+
+💼 [LinkedIn](https://www.linkedin.com/in/raphaelamettig/)
+
+💻 [Google Scholar](https://scholar.google.com/citations?user=q7tfjiMAAAAJ&hl=en&oi=sra)
+
+📑 [Medium Blog](https://medium.com/@rmettig)
+
+
+
+Resumé is available via request. 
+
+
