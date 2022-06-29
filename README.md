@@ -12,7 +12,7 @@ I am also a lifelong musician. In my free time, I love playing guitar, going to 
 
 ## Research
 
-I currently work with [Dr. Golden G. Richard III at ACL](https://www.cct.lsu.edu/~golden/), where currently a lot of the research is focused on memory forensics. 
+I currently work with [Dr. Golden G. Richard III](https://www.cct.lsu.edu/~golden/) at ACL, where currently a lot of the research is focused on memory forensics. 
 
 My research interests lie within operating system internals, reverse engineering, and binary analysis. Thus far, most of it has focused on malware analysis and on doing memory forensics with the [Volatility Framework](https://github.com/volatilityfoundation). Right now, my main focus is contributing to Volatility's support of memory analysis on Apple Silicon. 
 
