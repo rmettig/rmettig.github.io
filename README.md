@@ -27,8 +27,13 @@ Masters Thesis (available on 04/07/2023)
 
 
 ## Presentations and Talks
-- [LSU Discover Day 2019 - Automated Unpacking of Malware with Memory Forensics](https://github.com/rmettig/LSU-Discover-Day) (Slides)
+### Conference:
+- [BSidesDFW - Rosetta 2: Keeping Intel Malware Alive for Years to Come]() (Video coming soon)
+
+### Academic:
 - [LSU Discover Day 2020 - Malware DB: Pre-processing Malicious Samples for Preliminary Analysis](https://github.com/rmettig/LSU-Discover-Day) (Slides)
+- [LSU Discover Day 2019 - Automated Unpacking of Malware with Memory Forensics](https://github.com/rmettig/LSU-Discover-Day) (Slides)
+
 
 ## Blog
 [Medium Blog](https://medium.com/@rmettig)
@@ -39,6 +44,10 @@ Masters Thesis (available on 04/07/2023)
 ✉️ Email: rsanto2 [at] lsu [dot] edu
 
 🐦 [Twitter](https://twitter.com/rmettig_)
+
+🐘 Mastodon:
+- @rmettig@counter.social
+- @rmettig@infosec.exchange
 
 💼 [LinkedIn](https://www.linkedin.com/in/raphaelamettig/)
 
