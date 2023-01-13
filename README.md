@@ -7,7 +7,7 @@ Welcome to my personal homepage! -->
 
 I am a cybersecurity researcher currently affiliated with the [LSU Applied Cybersecurity Lab](https://www.lsu.edu/cybersecurity/applied-cybersecurity-lab/index.php) (ACL), and my main areas of research focus are memory forensics and malware analysis. I received my Bachelor of Science and Master of Science degrees in computer science from Louisiana State University, and I have worked as both a cybersecurity analyst in threat intelligence and as a product security engineer throughout my degree. 
 
-I am also a lifelong musician. In my free time, I love going to concerts, playing guitar, or reading. 
+I am also a lifelong musician. In my free time, I love going to concerts, playing guitar, and reading. 
 
 
 ## Research
@@ -28,7 +28,7 @@ Masters Thesis (available on 04/07/2023)
 
 ## Presentations and Talks
 ### Conference:
-- [BSidesDFW - Rosetta 2: Keeping Intel Malware Alive for Years to Come]() (Video coming soon)
+- [BSidesDFW - Rosetta 2: Keeping Mac Malware Alive for Years to Come](https://www.youtube.com/watch?v=_ghEarqwAxo)
 
 ### Academic:
 - [LSU Discover Day 2020 - Malware DB: Pre-processing Malicious Samples for Preliminary Analysis](https://github.com/rmettig/LSU-Discover-Day) (Slides)
@@ -45,9 +45,7 @@ Masters Thesis (available on 04/07/2023)
 
 🐦 [Twitter](https://twitter.com/rmettig_)
 
-🐘 Mastodon:
-- @rmettig@counter.social
-- @rmettig@infosec.exchange
+🐘 [Mastodon](https://infosec.exchange/@rmettig)
 
 💼 [LinkedIn](https://www.linkedin.com/in/raphaelamettig/)
 
