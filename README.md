@@ -47,8 +47,6 @@ _TBA_
 
 ✉️ Email: rsanto2 [at] lsu [dot] edu
 
-🐦 [Twitter](https://twitter.com/rmettig_)
-
 💼 [LinkedIn](https://www.linkedin.com/in/raphaelamettig/)
 
 💻 [Google Scholar](https://scholar.google.com/citations?user=q7tfjiMAAAAJ&hl=en&oi=sra)
@@ -57,8 +55,9 @@ _TBA_
 
 🐘 [Mastodon](https://infosec.exchange/@rmettig)
 
+🐦 [Twitter](https://twitter.com/rmettig_) _\(ARCHIVED\)_
 
 
-Resumé is available via request. 
+Resume / CV is available via request. 
 
 
