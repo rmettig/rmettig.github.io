@@ -23,7 +23,7 @@ During my undergraduate degree, I managed a repository of over 30 million malwar
 
 ## Publications
 ### Papers
-- [R Mettig, C Glass, A Case, GG Richard III. "Assessing the threat of Rosetta 2 on Apple Silicon devices." Forensic Science International: Digital Investigation, 20203.](https://www.sciencedirect.com/science/article/abs/pii/S2666281723001300)
+- [R Mettig, C Glass, A Case, GG Richard III. "Assessing the threat of Rosetta 2 on Apple Silicon devices." Forensic Science International: Digital Investigation, 2023.](https://www.sciencedirect.com/science/article/abs/pii/S2666281723001300)
 
 ### Masters Thesis 
 - [Santos Mettig Rocha, Raphaela. "Improving Memory Forensics Capabilities on Apple M1 Computers." (2022).](https://digitalcommons.lsu.edu/gradschool_theses/5529/)
