@@ -5,7 +5,7 @@ Welcome to my personal homepage! -->
 
 ## About Me
 
-I am a cybersecurity researcher currently affiliated with the [LSU Applied Cybersecurity Lab](https://www.lsu.edu/cybersecurity/applied-cybersecurity-lab/index.php) (ACL), and my main areas of research focus are memory forensics and malware analysis. I earned my Bachelor of Science and Master of Science degrees in computer science from Louisiana State University, and I have worked as both a cybersecurity analyst in threat intelligence and as a product security engineer throughout my degree. 
+I am a cybersecurity researcher currently affiliated with the [Applied Cybersecurity Lab](https://www.lsu.edu/cybersecurity/applied-cybersecurity-lab/index.php) (ACL) at LSU, and my main areas of research focus are memory forensics and malware analysis. I earned my Bachelor of Science and Master of Science degrees in computer science from Louisiana State University, and I have worked as both a cybersecurity analyst in threat intelligence and as a product security engineer throughout my degree. 
 
 I am also a lifelong musician. In my free time, I love going to concerts, playing guitar, and reading. 
 
@@ -14,7 +14,7 @@ I am also a lifelong musician. In my free time, I love going to concerts, playin
 
 I currently work with [Dr. Golden G. Richard III](https://www.cct.lsu.edu/~golden/) at ACL, where currently a lot of the research is focused on memory forensics. 
 
-My research interests lie within operating system internals, reverse engineering, and binary analysis. Thus far, most of it has focused on malware analysis and on doing memory forensics with the [Volatility Framework](https://github.com/volatilityfoundation). Right now, my main focus is contributing to Volatility's support of memory analysis on Apple Silicon. 
+My research interests lie in reverse engineering, binary analysis. Thus far, most of it has focused on malware analysis and on doing memory forensics with the [Volatility Framework](https://github.com/volatilityfoundation). 
 
 For my master's thesis, I explored new forensic artifacts that are exclusive to Apple's M1 processors, some of which can only be recovered through memory analysis. 
 
@@ -22,7 +22,10 @@ During my undergraduate degree, I managed a repository of over 30 million malwar
 
 
 ## Publications
-Masters Thesis 
+### Papers
+- [R Mettig, C Glass, A Case, GG Richard III. "Assessing the threat of Rosetta 2 on Apple Silicon devices." Forensic Science International: Digital Investigation, 20203.](https://www.sciencedirect.com/science/article/abs/pii/S2666281723001300)
+
+### Masters Thesis 
 - [Santos Mettig Rocha, Raphaela. "Improving Memory Forensics Capabilities on Apple M1 Computers." (2022).](https://digitalcommons.lsu.edu/gradschool_theses/5529/)
 
 
@@ -53,9 +56,10 @@ _TBA_
 
 🔍 [ORCID](https://orcid.org/0000-0002-7261-9289)
 
+🐦 [Twitter](https://twitter.com/rmettig_) 
+
 🐘 [Mastodon](https://infosec.exchange/@rmettig)
 
-🐦 [Twitter](https://twitter.com/rmettig_) _\(ARCHIVED\)_
 
 
 Resume / CV is available via request. 
