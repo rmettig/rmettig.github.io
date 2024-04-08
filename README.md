@@ -14,7 +14,7 @@ I am also a lifelong musician. In my free time, I love going to concerts, playin
 
 I currently work with [Dr. Golden G. Richard III](https://www.cct.lsu.edu/~golden/) at ACL, where currently a lot of the research is focused on memory forensics. 
 
-My research interests lie in reverse engineering, binary analysis. Thus far, most of it has focused on malware analysis and on doing memory forensics with the [Volatility Framework](https://github.com/volatilityfoundation). 
+My research interests lie in reverse engineering and binary analysis. Thus far, most of it has focused on malware analysis and on doing memory forensics with the [Volatility Framework](https://github.com/volatilityfoundation). 
 
 For my master's thesis, I explored new forensic artifacts that are exclusive to Apple's M1 processors, some of which can only be recovered through memory analysis. 
 
@@ -40,7 +40,7 @@ During my undergraduate degree, I managed a repository of over 30 million malwar
 
 ## Workshops
 - Intro to Git @ LSU Women in Computer Science (WICS)
-
+- Intro to CLI @ LSU Women in Computer Science (WICS)
 
 ## Blog
 _TBA_
@@ -48,17 +48,12 @@ _TBA_
 
 ## Contact 
 
-✉️ Email: rsanto2 [at] lsu [dot] edu
-
-💼 [LinkedIn](https://www.linkedin.com/in/raphaelamettig/)
-
-💻 [Google Scholar](https://scholar.google.com/citations?user=q7tfjiMAAAAJ&hl=en&oi=sra)
-
-🔍 [ORCID](https://orcid.org/0000-0002-7261-9289)
-
-🐦 [Twitter](https://twitter.com/rmettig_) 
-
-🐘 [Mastodon](https://infosec.exchange/@rmettig)
+- ✉️ Email: rsanto2 [at] lsu [dot] edu
+- 💼 [LinkedIn](https://www.linkedin.com/in/raphaelamettig/)
+- 🐦 [Twitter/X](https://twitter.com/rmettig_) 
+- 💻 [Google Scholar](https://scholar.google.com/citations?user=q7tfjiMAAAAJ&hl=en&oi=sra)
+- 🔍 [ORCID](https://orcid.org/0000-0002-7261-9289)
+- 🐘 [Mastodon](https://infosec.exchange/@rmettig) (Inactive, but this is me!)
 
 
 
