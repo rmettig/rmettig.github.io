@@ -8,8 +8,8 @@
 layout: home
 ---
 
-# Welcome to my personal homepage!
+# Welcome to my personal page!
 
----
+Hi, you found my website. Feel free to read through the blog posts! :)
 
 # Recent Blog Posts
