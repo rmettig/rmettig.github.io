@@ -3,8 +3,9 @@ author:
   name: Raphaela Mettig
   email: 
 
-url: rmettig.github.io
-# baseurl: rmettig.github.io
+domain: rmettig.github.io
+url: https://rmettig.github.io
+baseurl: /personal-site/
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
