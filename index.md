@@ -6,10 +6,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: "Welcome to my personal webpage!"
 ---
 
-# Welcome to my personal page!
-
 Hi, you found my website. Feel free to read through the blog posts! :)
+
+--Raphaela
 
 # Recent Blog Posts
