@@ -31,6 +31,8 @@ During my undergraduate degree, I managed a repository of over 40 million malwar
 - [LSU Discover Day 2020 - Malware DB: Pre-processing Malicious Samples for Preliminary Analysis](https://github.com/rmettig/LSU-Discover-Day) (Slides)
 - [LSU Discover Day 2019 - Automated Unpacking of Malware with Memory Forensics](https://github.com/rmettig/LSU-Discover-Day) (Slides)
 
+## Contributions
+- [Volatility Framework Plugin Contest 2019 - Ryan D. Maggio, Raphaela Mettig, Sweta Ghimire (LSU): Shemu](https://volatility-labs.blogspot.com/2019/11/results-from-2019-volatility-contests.html)
 
 ## Workshops
 - Intro to Git @ LSU Women in Computer Science (WICS)
