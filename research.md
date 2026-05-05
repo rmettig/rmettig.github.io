@@ -5,15 +5,18 @@ permalink: /research/
 ---
 
 
-I currently work with [Dr. Golden G. Richard III](https://www.cct.lsu.edu/~golden/) at the LSU Applied Cybersecurity Lab, where a lot of the research is focused around memory forensics. 
+I currently work with [Dr. Golden G. Richard III](https://www.cct.lsu.edu/~golden/) at the LSU Applied Cybersecurity Lab, where a lot of the research is focused around Digital Forensics and Incident Response. I am also a staff advisor for the [LSU OT Cyber Clinic](https://www.lsu.edu/cyberclinic/index.php).
 
 My research interests lie in reverse engineering and binary analysis. Thus far, most of it has focused on malware analysis and on doing memory forensics with the [Volatility Framework](https://github.com/volatilityfoundation). 
+
+I currently serve on the [DFRWS USA Technical Program Committee](https://dfrws.org/conferences/dfrws-usa-2026/), and I have served on the [CPF committee for BSidesNYC](https://web.archive.org/web/20251019025433/https://bsidesnyc.org/about/).
 
 For my master's thesis, I explored new forensic artifacts that are exclusive to Apple Silicon processors, some of which can only be recovered through memory analysis. 
 
 During my undergraduate degree, I managed a repository of over 40 million malware samples and built automation mechanisms to help process them into a database that could later be used for research. 
 
 [Google Scholar](https://scholar.google.com/citations?user=q7tfjiMAAAAJ&hl=en&oi=sra)
+[ORCID iD](https://orcid.org/0000-0002-7261-9289)
 
 ## Publications
 ### Papers
@@ -25,6 +28,7 @@ During my undergraduate degree, I managed a repository of over 40 million malwar
 
 ## Presentations and Talks
 ### Conference:
+- \(UP NEXT!\) BSidesNOLA - A Distilled Guide to Industrial Cybersecurity for IT Backgrounds
 - [BSidesDFW - Rosetta 2: Keeping Mac Malware Alive for Years to Come](https://www.youtube.com/watch?v=_ghEarqwAxo)
 
 ### Academic:
