@@ -7,7 +7,7 @@ permalink: /research/
 
 I currently work with [Dr. Golden G. Richard III](https://www.cct.lsu.edu/~golden/) at the LSU Applied Cybersecurity Lab, where a lot of the research is focused around Digital Forensics and Incident Response. I am also a staff advisor for the [LSU OT Cyber Clinic](https://www.lsu.edu/cyberclinic/index.php).
 
-My research interests lie in reverse engineering and binary analysis. Thus far, most of it has focused on malware analysis and on doing memory forensics with the [Volatility Framework](https://github.com/volatilityfoundation). 
+My research interests lie in reverse engineering, binary analysis, threat intelligence and systems security. So far, most of it has focused on malware analysis and on doing memory forensics with the [Volatility Framework](https://github.com/volatilityfoundation). 
 
 I currently serve on the [DFRWS USA Technical Program Committee](https://dfrws.org/conferences/dfrws-usa-2026/), and I have served on the [CPF committee for BSidesNYC](https://web.archive.org/web/20251019025433/https://bsidesnyc.org/about/).
 
@@ -23,13 +23,13 @@ During my undergraduate degree, I managed a repository of over 40 million malwar
 - [R Mettig, C Glass, A Case, GG Richard III. "Assessing the threat of Rosetta 2 on Apple Silicon devices." Forensic Science International: Digital Investigation, 2023.](https://www.sciencedirect.com/science/article/abs/pii/S2666281723001300)
 
 ### Masters Thesis 
-- [Santos Mettig Rocha, Raphaela. "Improving Memory Forensics Capabilities on Apple M1 Computers." (2022).](https://digitalcommons.lsu.edu/gradschool_theses/5529/)
+- [Mettig, Raphaela. "Improving Memory Forensics Capabilities on Apple M1 Computers." (2022).](https://digitalcommons.lsu.edu/gradschool_theses/5529/)
 
 
 ## Presentations and Talks
 ### Conference:
-- \(UP NEXT!\) BSidesNOLA - A Distilled Guide to Industrial Cybersecurity for IT Backgrounds
-- [BSidesDFW - Rosetta 2: Keeping Mac Malware Alive for Years to Come](https://www.youtube.com/watch?v=_ghEarqwAxo)
+- BSidesNOLA - A Distilled Guide to Industrial Cybersecurity for IT Backgrounds (Presented with [Samuel Hildebrand](https://sam-hildebrand.github.io/shell/); not recorded. May 2026.)
+- [BSidesDFW - Rosetta 2: Keeping Mac Malware Alive for Years to Come](https://www.youtube.com/watch?v=_ghEarqwAxo) (Nov 2022.)
 
 ### Academic:
 - [LSU Discover Day 2020 - Malware DB: Pre-processing Malicious Samples for Preliminary Analysis](https://github.com/rmettig/LSU-Discover-Day) (Slides)
